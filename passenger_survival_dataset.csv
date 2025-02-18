@@ -7,7 +7,7 @@ Passenger_ID,Name,Age,Gender,Class,Seat_Type,Fare_Paid,Survival_Status
 6,Passenger_6,75,Male,Economy,Middle,57.18,0
 7,Passenger_7,75,Male,Economy,Aisle,665.1,0
 8,Passenger_8,24,Male,Business,Window,903.13,1
-9,Passenger_9,3,Male,Business,Aisle,281.31,0
+9,Passenger_9,3,Male,Business,Aisle,281.31,0 
 10,Passenger_10,22,Male,Economy,Middle,930.68,1
 11,Passenger_11,53,Female,Economy,Middle,107.25,1
 12,Passenger_12,2,Male,Economy,Aisle,937.71,0
